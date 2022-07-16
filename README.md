@@ -1,6 +1,7 @@
 # Push_Swap 21 school project
 
 The main goal is to sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed you’ll have to manipulate various types of algorithms and choose the one (of many) most appropriate solution for an optimized data sorting.
+[Click to check subject](https://github.com/Binary-Hackers/42_Subjects/blob/master/00_Projects/02_Algorithmic/push_swap.pdf)
 
 | instructions  | Description   |
 |:-------------:|---------------|
